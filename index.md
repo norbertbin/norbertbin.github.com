@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work in Progress
-tagline: 
+tagline: Stats and ...
 ---
 {% include JB/setup %}
     

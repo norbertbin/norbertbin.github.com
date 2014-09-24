@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+tagline: Norbert Binkiewicz
 group: navigation
 ---
 
