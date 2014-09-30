@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work in Progress
-tagline: Stats and ...
+title: One More Cluster
+tagline: Data, Stats, and Things
 ---
 {% include JB/setup %}
     
